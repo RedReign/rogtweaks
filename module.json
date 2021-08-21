@@ -1,0 +1,13 @@
+{
+	"name": "rogtweaks",
+	"title": "Roger's Tweaks",
+	"description": "Personal module for house rules, etc.",
+	"minimumCoreVersion": "0.8.8",
+	"compatibleCoreVersion": "0.8.8",
+	"version": "0.1",
+	"author": "Red Reign#5128",
+	"systems": ["dnd5e"],
+	"esmodules": ["./scripts/rogtweaks.js"],
+	"styles": ["./styles/rogtweaks.css"],
+	"packs": []
+}
