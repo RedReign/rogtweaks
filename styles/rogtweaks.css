@@ -1,0 +1,11 @@
+.dnd5e.sheet.actor .attributes .traits .form-group {
+    border-bottom: 1px solid rgba(0,0,0,.15);
+}
+
+.dnd5e.sheet.actor .spell-range {
+    flex: 0 0 100px;
+    font-size: 12px;
+    color: #7a7971;
+    text-align: center;
+    border-right: 1px solid #c9c7b8;
+}
